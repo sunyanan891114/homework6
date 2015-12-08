@@ -1,0 +1,12 @@
+#confirm,#cancle{
+    display: block;
+    float: left;
+    margin-top: 15%;
+    margin-left: 15%;
+}
+#warn{
+    color: #FF8C05;
+    margin-top:10px;
+    font-size: 8px;
+    margin-left: 7%;
+}
